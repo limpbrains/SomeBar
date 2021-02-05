@@ -17,13 +17,13 @@ if platform.system() == 'Linux':
 setup(
     name = 'somebar',
     scripts = ['somebar'],
-    version = '0.0.7',
+    version = '0.0.8',
     license = 'MIT License',
     description = 'Simple taskbar widget that displays color dot or custom icon',
     author = 'Ivan',
     author_email = 'ivan.vershigora@gmail.com',
     url = 'https://github.com/limpbrains/somebar',
-    download_url  ='https://github.com/limpbrains/somebar/tarball/0.0.7',
+    download_url  ='https://github.com/limpbrains/somebar/tarball/0.0.8',
     keywords = ['AnyBar', 'somebar', 'taskbar', 'indicator'],
     packages = find_packages(),
     classifiers = [

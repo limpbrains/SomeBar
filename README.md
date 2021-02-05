@@ -2,7 +2,7 @@
 
 Simple taskbar indicator for Unity inspired by [AnyBar](https://github.com/tonsky/AnyBar) (basically it is a clone of AnyBar)
 
-Tested on Ubuntu 18.04 with Unity and Ubuntu GNOME
+Tested on Ubuntu 20.20
 
 <img src="screenshot_unity.png?raw=true" />
 
